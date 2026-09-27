@@ -101,7 +101,7 @@ $N = 60$ относительное изменение $< 1\%$. Достаточ
 $a = 0.5$ ($h = 0.05$) подтверждена.
 
 
-| $\kappa = 0$ | $\kappa = 1.5$ | $\kappa = 3.0$ | $\kappa = 5.0$ |
+| $\kappa = 1.5$ | $\kappa = 3.0$ | $\kappa = 5.0$ | $\kappa = 8.0$ |
 | :---: | :---: | :---: | :---: |
 | <img src="cont_pres_1.png" width="290"> | <img src="cont_pres_2.png" width="290"> | <img src="cont_pres_3.png" width="290"> | <img src="cont_pres_4.png" width="290"> |
 *Рис. 6. Сходимость контактного напряжения при N = 20, 40, 60.*
