@@ -60,7 +60,11 @@ $\kappa < \alpha < \kappa/\sqrt{\mu_{\min}} \approx 2.24\,\kappa$.
 $\kappa_2 \approx 3.80$, $\kappa_3 \approx 7.36$, $\kappa_4 \approx 10.92$
 (шаг $\approx 3.56$). При отсечке мода рождается на линии $\alpha = \kappa$.
 
-![Дисперсионные кривые](дисперсия(k_a).png)
+<p align="center">
+  <img src="dispersion_ka.png" alt="Дисперсионные кривые" width="290" />
+  <img src="dispersion_ac.png" alt="Дисперсионные кривые" width="290" />
+</p>
+
 *Рис. 4. Дисперсионные кривые αₙ(κ); отмечены отсечки κ₂, κ₃ и линия α=κ.*
 
 ### 5. Интегральное уравнение и контур интегрирования
