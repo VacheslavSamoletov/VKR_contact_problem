@@ -42,7 +42,7 @@ $\tilde K(\alpha) = (U_1 + \gamma_2 U_2)/(\Sigma_1 + \gamma_2 \Sigma_2)$,
 $\alpha \to \infty$ подтверждает логарифмическую особенность ядра в нуле.
 
 
-| $\kappa = 0$ | $\kappa = 0$ | $\kappa = 0$ | $\kappa = 0$ |
+| $\kappa = 0$ | $\kappa = 1.5$ | $\kappa = 3.0$ | $\kappa = 5.0$ |
 | :---: | :---: | :---: | :---: |
 | <img src="к11.png" width="290"> | <img src="к22.png" width="290"> | <img src="к33.png" width="290"> | <img src="к44.png" width="290"> |
 
